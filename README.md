@@ -32,3 +32,7 @@ KmerCanvas is designed to help you:
 ~ Open Addressing: Resolves hash collisions, ensuring efficient use of space and guaranteeing quick access.
 
 ~ Position Mapping & Counting: Tracks k-mer occurrence and all positions in sequence, supporting advanced queries and further embedding computation.
+
+
+# Data Credits
+Sequence data used and tested with this tool were obtained from the NCBI GenBank/RefSeq/ENA database(s).
